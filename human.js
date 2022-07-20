@@ -1,4 +1,4 @@
-import Human from '@vladmandic/human'
+//import Human from '@vladmandic/human'
 
 
 class MyCounter extends HTMLElement {
