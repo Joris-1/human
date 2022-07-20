@@ -1,7 +1,7 @@
 //import Human from '@vladmandic/human'
 
 
-class camFnct extends HTMLElement {
+class CamElement extends HTMLElement {
   constructor() {
     super();
     
@@ -61,4 +61,4 @@ class camFnct extends HTMLElement {
   
 }
 
-customElements.define('cam-tag', camFnct);
+customElements.define('cam-tag', CamElement);
